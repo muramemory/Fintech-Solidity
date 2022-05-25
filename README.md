@@ -4,7 +4,8 @@
 
 ## Overview
 
-In this repo is a ethereum smart cotnract written on remix.ethereum.org detailing a joint savings account. This contract enables you to deposit ETH as wei, gwei, finney and ether and display the quantanties. It also enables you to withdraw ether in either accounts.
+In this repo is an ethereum smart contract written on remix.ethereum.org detailing a joint savings account. 
+This contract enables you to deposit ETH as wei, gwei, finney and ether and display the quantities. It also enables you to withdraw ether in either accounts.
 
 ## Execution Results
 

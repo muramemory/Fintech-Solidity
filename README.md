@@ -9,19 +9,22 @@ In this repo is a ethereum smart cotnract written on remix.ethereum.org detailin
 ## Execution Results
 
 ### Deploy  
-![image_add](Execution_Reults/image_1_deploy.png)
+![image_add](Execution_Results/image_1_deploy.png)
 
 ## Wei Transaction  
-![image_add](Execution_Reults/Image_2_wei_transaction.png)
+![image_add](Execution_Results/Image_2_wei_transaction.png)
 
 ### 5 Eth Deposit
-![image_add](Execution_Reults/5_eth_transaction.png)  
+![image_add](Execution_Results/5_eth_transaction.png)  
 
 ### 10 Eth Deposit
-![image_add](Execution_Reults/1000000000000000000_wei_transaction.png)  
+![image_add](Execution_Results/1000000000000000000_wei_transaction.png)
 
 ### 10 Eth Withdraw
-![image_add](Execution_Reults/)  
+![image_add](Execution_Results/10_eth_withdraw_account_2.png)
+
+### Contract Balance
+![image_add](Execution_Resultscontract_balance.png)  
 
 ### Last to Withdraw
 ![image_add](Execution_Reults/last_to_withdraw.png)

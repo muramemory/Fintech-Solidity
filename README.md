@@ -25,10 +25,10 @@ This contract enables you to deposit ETH as wei, gwei, finney and ether and disp
 ![image_add](Execution_Results/10_eth_withdraw_account_2.png)
 
 ### Contract Balance
-![image_add](Execution_Resultscontract_balance.png)  
+![image_add](Execution_Results/contract_balance.png)  
 
 ### Last to Withdraw
-![image_add](Execution_Reults/last_to_withdraw.png)
+![image_add](Execution_Results/last_to_withdraw.png)
 
 
 
